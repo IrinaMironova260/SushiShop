@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/locationMenu"
+            android:icon="@drawable/location"
+            android:title="@string/location"/>
+        <item
+            android:id="@+id/phone"
+            android:icon="@drawable/cabinet"
+            android:title="@string/phone" />
+
+    </group>
+
+    <item
+        android:title="@string/main_menu">
+        <menu>
+            <item
+                android:id="@+id/combos"
+                android:icon="@drawable/set"
+                android:title="@string/sets"/>
+
+            <item
+                android:id="@+id/combo"
+                android:icon="@drawable/combo"
+                android:title="@string/combo"/>
+            <item
+                android:id="@+id/sushi"
+                android:icon="@drawable/sushi"
+                android:title="@string/sushi"/>
+            <item
+                android:id="@+id/combos2"
+                android:icon="@drawable/set"
+                android:title="@string/sets2"/>
+
+            <item
+                android:id="@+id/combo2"
+                android:icon="@drawable/combo"
+                android:title="@string/combo2"/>
+            <item
+                android:id="@+id/sushi2"
+                android:icon="@drawable/sushi"
+                android:title="@string/sushi2"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="none">
+            <item
+                android:id="@+id/cabinet"
+                android:icon="@drawable/cabinet"
+                android:title="@string/cabinet"/>
+            <item
+                android:id="@+id/helpMenu"
+                android:icon="@drawable/shops"
+                android:title="@string/shops"/>
+            <item
+                android:id="@+id/rules"
+                android:title="@string/rules"/>
+
+    </group>
+</menu>

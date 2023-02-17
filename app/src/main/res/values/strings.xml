@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sushi Wok</string>
+
+    <!-- Menu-->
+    <string name="location">Локация</string>
+    <string name="phone">+ 7 812 570-00-00</string>
+    <string name="cabinet">Личный кабинет</string>
+    <string name="shops">Магазины</string>
+    <string name="rules">Правила и условия</string>
+    <string name="contacts">Контакты</string>
+    <string name="main_menu">Меню</string>
+    <string name="sets">Сеты</string>
+    <string name="sets2">Сеты</string>
+    <string name="combo">Комбо</string>
+    <string name="combo2">Комбо</string>
+    <string name="sushi">Суши</string>
+    <string name="sushi2">Суши</string>
+
+    <!-- Top bar-->
+    <string name="shopping_cart">Корзина</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
